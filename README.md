@@ -2,6 +2,7 @@
 
 This project is part of the "Big Data in International Relations" course. The task of the project is to generate a sentiment analysis visualization between Donald Trump and Hillary Clinton from journal articles and published papers.
 
+For comprehensive reports you can refer to this [markdown website](https://muhammad-zulfikar.github.io/bigDataInInternationalRelations/Task-2.html)
 
 ## Project Structure
 ```
@@ -10,18 +11,14 @@ sentimentAnalysis
 ├── dataScraping.R
 └── pdf
 ├── donald trump
-│ ├── 1.pdf
-│ ├── 10.pdf
-│ ├── 11.pdf
-│ ├── 12.pdf
-│ ├── 14.pdf
+│ ├── <filename>.pdf
+│ ├── <filename>.pdf
+│ ├── <filename>.pdf
 │ └── ...
 └── hillary clinton
-├── 10.pdf
-├── 12.pdf
-├── 13.pdf
-├── 15.pdf
-├── 16.pdf
+├── <filename>.pdf
+├── <filename>.pdf
+├── <filename>.pdf
 └── ....
 ```
 
